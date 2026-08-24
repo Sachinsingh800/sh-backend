@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "story1",
+    "category": "Motivational",
+    "genre": [
+      "Motivational",
+      "Drama",
+      "Adventure"
+    ],
+    "language": "English",
+    "tags": [
+      "Success",
+      "Hope",
+      "Dreams",
+      "Life Lessons",
+      "Never Give Up",
+      "Inspirational"
+    ],
+    "featured": true,
+    "title": "The Last Light",
+    "thumbnail": "/media/stories/story-1/thumbnail.webp",
+    "ambient": "/media/stories/story-1/ambient.mp3",
+    "author": "Ethan Carter",
+    "authorBio": "A storyteller who writes uplifting fiction inspired by ordinary people who discover extraordinary courage.",
+    "publishedDate": "July 2026",
+    "readingTime": "8 min read",
+    "listeningTime": "16 min listen",
+    "description": "When every door closes, nineteen-year-old Noah discovers that hope isn't something you find—it's something you build. A powerful story about failure, courage, and becoming the light for others.",
+    "endNote": "Every sunrise begins in darkness.\nNever stop believing in tomorrow.",
+    "authorNote": "This story is dedicated to everyone who has ever felt they were behind in life. Your journey isn't late—it is uniquely yours. Keep walking.",
+    "pages": [
+      {
+        "id": "i",
+        "title": "The Boy Who Failed",
+        "body": "At nineteen, Ethan believed he was already running out of time. Every entrance exam he attempted ended in failure, every job interview ended with the same polite rejection, and every social media post from his friends reminded him that everyone else seemed to be moving ahead. Every night he stared at the ceiling wondering if dreams were only meant for lucky people.",
+        "image": "/media/stories/story-1/page-1.webp",
+        "audio": "/media/stories/story-1/page-1.mp3",
+        "after": "Deep inside, however, a tiny voice still whispered, 'Try one more time.'"
+      },
+      {
+        "id": "ii",
+        "title": "The Old Bench",
+        "body": "One rainy afternoon Ethan sat alone on an old wooden bench in the city park. His backpack contained nothing except rejection letters and unfinished plans. As the rain slowed, an elderly gardener quietly sat beside him and noticed the papers sticking out of the bag. Instead of asking what happened, the old man simply smiled.",
+        "image": "/media/stories/story-1/page-2.webp",
+        "audio": "/media/stories/story-1/page-2.mp3",
+        "after": "\"Do you know why bamboo grows so slowly?\" the gardener asked."
+      },
+      {
+        "id": "iii",
+        "title": "The Bamboo Lesson",
+        "body": "\"For years,\" the gardener explained, \"the bamboo appears to do almost nothing. People think it's dead. But beneath the ground, its roots are spreading wider and deeper. When the time is right, it grows taller than almost every tree around it.\" Ethan listened quietly. Maybe his failures weren't proof that he was weak. Maybe they were simply roots growing where no one could see.",
+        "image": "/media/stories/story-1/page-3.webp",
+        "audio": "/media/stories/story-1/page-3.mp3",
+        "after": "That single conversation changed the way he looked at tomorrow."
+      },
+      {
+        "id": "iv",
+        "title": "One Small Habit",
+        "body": "The next morning Ethan woke before sunrise. Instead of searching for motivation, he made his bed, exercised for twenty minutes, read ten pages of a book, and studied for one uninterrupted hour. The changes looked tiny, almost meaningless, but he promised himself he would never miss a single day.",
+        "image": "/media/stories/story-1/page-4.webp",
+        "audio": "/media/stories/story-1/page-4.mp3",
+        "after": "Great mountains are climbed one careful step at a time."
+      },
+      {
+        "id": "v",
+        "title": "Nobody Noticed",
+        "body": "Weeks passed. Nothing dramatic happened. His friends still earned promotions, others celebrated achievements online, and Ethan remained unknown. Yet every day he became slightly stronger, slightly wiser, and slightly more disciplined than the day before. Progress was invisible to everyone else—but it was becoming impossible for Ethan to ignore.",
+        "image": "/media/stories/story-1/page-5.webp",
+        "audio": "/media/stories/story-1/page-5.mp3",
+        "after": "Sometimes the greatest victories happen long before the world applauds."
+      },
+      {
+        "id": "vi",
+        "title": "The First Opportunity",
+        "body": "On the forty-second day, Ethan noticed an internship notice outside the local library. The pay was small, but instead of doubting himself, he smiled, took a photo, and went home to prepare. He had learned that success wasn't about waiting for perfect opportunities—it was about being ready when they appeared.",
+        "image": "/media/stories/story-1/page-6.webp",
+        "audio": "/media/stories/story-1/page-6.mp3",
+        "after": "Confidence isn't born from winning—it grows from showing up."
+      },
+      {
+        "id": "vii",
+        "title": "Another Rejection",
+        "body": "A week later, the email arrived. 'We regret to inform you...' Ethan stared at the screen, feeling the familiar sting of disappointment. For a moment, the old doubts returned. Then he closed the laptop, picked up his notebook, and wrote down everything he had learned from the interview. Instead of asking, 'Why did I fail?' he asked, 'What can I improve before the next chance?'",
+        "image": "/media/stories/story-1/page-7.webp",
+        "audio": "/media/stories/story-1/page-7.mp3",
+        "after": "The question changed everything."
+      },
+      {
+        "id": "viii",
+        "title": "Helping Others",
+        "body": "One evening Ethan noticed a younger student struggling with mathematics in the neighborhood. He offered to help for free. Soon one student became three, then five, then ten. Watching others understand concepts because of his patience gave Ethan something he had been missing for years—a sense of purpose. He realized success wasn't measured only by what he achieved, but by the lives he improved along the way.",
+        "image": "/media/stories/story-1/page-8.webp",
+        "audio": "/media/stories/story-1/page-8.mp3",
+        "after": "When you lift others, you often discover your own strength."
+      },
+      {
+        "id": "ix",
+        "title": "A Phone Call",
+        "body": "Several months later, Ethan's phone rang unexpectedly. One of the parents whose child he had taught worked at a growing technology company. They had heard about his dedication and discipline. 'Would you be interested in interviewing with us?' the voice asked. Ethan looked out the window and smiled. Opportunities had finally started searching for the person he had become.",
+        "image": "/media/stories/story-1/page-9.webp",
+        "audio": "/media/stories/story-1/page-9.mp3",
+        "after": "Hard work has a quiet way of introducing you to the right people."
+      },
+      {
+        "id": "x",
+        "title": "The Interview",
+        "body": "Unlike his earlier interviews, Ethan wasn't trying to impress anyone. He simply spoke honestly about his failures, his daily habits, the students he had taught, and everything he had learned during difficult months. The interviewers didn't just see skills—they saw resilience. For the first time in years, Ethan walked out of a building without wondering whether he was good enough.",
+        "image": "/media/stories/story-1/page-10.webp",
+        "audio": "/media/stories/story-1/page-10.mp3",
+        "after": "Sometimes the greatest qualification is the person you've become."
+      },
+      {
+        "id": "xi",
+        "title": "The Call",
+        "body": "Three days later, Ethan received a call while helping one of his students. It was the company offering him the job. For a moment, he stood speechless. Months of hard work had finally paid off. Smiling with gratitude, he looked around the classroom where his journey had truly begun.",
+        "image": "/media/stories/story-1/page-11.webp",
+        "audio": "/media/stories/story-1/page-11.mp3",
+        "after": "Dreams often arrive quietly, after you've stopped chasing shortcuts."
+      },
+      {
+        "id": "xii",
+        "title": "The Hardest Beginning",
+        "body": "Starting the new job wasn't easy. Ethan was surrounded by talented people who seemed faster, smarter, and more experienced. During the first few weeks, he made mistakes almost every day. Instead of hiding them, he asked questions, stayed late to learn, and treated every error as another lesson. Slowly, the fear of looking inexperienced disappeared, replaced by the excitement of becoming better than yesterday.",
+        "image": "/media/stories/story-1/page-12.webp",
+        "audio": "/media/stories/story-1/page-12.mp3",
+        "after": "Success isn't reaching the finish line—it's refusing to stop learning."
+      },
+      {
+        "id": "xiii",
+        "title": "The Unexpected Leader",
+        "body": "Months passed, and Ethan became known for something more valuable than talent—reliability. Whenever a difficult project appeared, he volunteered to help. Whenever a teammate struggled, he stayed behind to support them. His kindness spread through the office faster than any promotion ever could. People began trusting him not because he knew everything, but because they knew he would never give up.",
+        "image": "/media/stories/story-1/page-13.webp",
+        "audio": "/media/stories/story-1/page-13.mp3",
+        "after": "True leaders don't stand above others—they stand beside them."
+      },
+      {
+        "id": "xiv",
+        "title": "Returning to the Park",
+        "body": "One evening Ethan returned to the old park where everything had changed. The same wooden bench stood beneath the trees, but the elderly gardener was nowhere to be found. On the bench lay a small note left inside a worn gardening book: 'Keep growing. The strongest roots are invisible.' Ethan smiled, realizing the gardener had given him far more than advice. He had given him a new way to see life.",
+        "image": "/media/stories/story-1/page-14.webp",
+        "audio": "/media/stories/story-1/page-14.mp3",
+        "after": "Some teachers change your future without ever asking for your name."
+      },
+      {
+        "id": "xv",
+        "title": "Lighting Another Candle",
+        "body": "Remembering his own struggles, Ethan spent weekends mentoring students who had lost confidence. He shared his story of failures, small habits, and steady progress instead of promising quick success. As hope returned to their faces, he realized true success meant helping others believe in themselves.",
+        "image": "/media/stories/story-1/page-15.webp",
+        "audio": "/media/stories/story-1/page-15.mp3",
+        "after": "A single light becomes brighter when it helps others find their way."
+      },
+      {
+        "id": "xvi",
+        "title": "A Bigger Dream",
+        "body": "As Ethan's career grew, he never forgot the young man he once was. Instead of chasing a bigger title, he built a free learning center for students who couldn't afford coaching. Soon, every seat was filled. He realized true success means creating opportunities for others.",
+        "image": "/media/stories/story-1/page-16.webp",
+        "audio": "/media/stories/story-1/page-16.mp3",
+        "after": "The greatest investment is believing in another person's future."
+      }
+    ]
+  },
+  {
+    "id": "story2",
+    "category": "True Stories",
+    "genre": [
+      "Biography",
+      "Motivational",
+      "True Story"
+    ],
+    "language": "Hindi (Roman)",
+    "tags": [
+      "Mountain Man",
+      "Dashrath Manjhi",
+      "True Story",
+      "Motivation",
+      "Never Give Up",
+      "Perseverance",
+      "India",
+      "Inspiration",
+      "Courage",
+      "Determination"
+    ],
+    "featured": true,
+    "title": "Mountain Man",
+    "thumbnail": "/media/stories/story-2/thumbnail.webp",
+    "ambient": "/media/stories/story-2/ambient.mp3",
+    "author": "Open Stories",
+    "authorBio": "Sharing inspiring true stories of ordinary people whose determination changed the world and continues to motivate millions.",
+    "publishedDate": "July 2026",
+    "readingTime": "6 min read",
+    "listeningTime": "12 min listen",
+    "description": "Dashrath Manjhi, famously known as the Mountain Man, proved that determination can move mountains. Armed with only a hammer and chisel, he spent 22 years carving a road through a mountain, transforming the lives of an entire village and inspiring generations.",
+    "endNote": "Ek insaan duniya nahi badal sakta... lekin ek mazboot irada zaroor badal sakta hai.\nKabhi haar mat maano.",
+    "authorNote": "Dashrath Manjhi ki kahani hume yaad dilati hai ki sapne bade hone chahiye, chahe hum kitne hi chhote kyun na ho. Unhone sirf ek pahad nahi kaata, balki laakhon logon ke dilon me umeed ka raasta bana diya. Yeh kahani un sabhi logon ke naam hai jo mushkilon ke saamne jhukne ke bajay unka saamna karte hain.",
+    "pages": [
+      {
+        "id": "i",
+        "title": "Ek Chhota Sa Gaon",
+        "body": "Bihar ke Gaya district ke ek chhote se gaon Gehlaur me Dashrath Manjhi naam ka ek aam aadmi rehta tha. Uske paas na paisa tha, na shiksha, aur na hi koi badi pehchan. Woh roz pahad ke us paar mazdoori karne jaata tha. Uski zindagi mushkilon se bhari thi, lekin uske chehre par hamesha ek halki si muskaan rehti thi.",
+        "image": "/media/stories/story-2/page-1.webp",
+        "audio": "/media/stories/story-2/page-1.mp3",
+        "after": "Kabhi kabhi sabse bade hero sabse aam log hote hain."
+      },
+      {
+        "id": "ii",
+        "title": "Pyar Jo Sab Kuch Badal Gaya",
+        "body": "Dashrath apni patni Phaguniya se bahut pyar karta tha. Ek din jab woh uske liye khana lekar pahad paar kar rahi thi, uska pair fisal gaya aur woh buri tarah gir gayi. Hospital bahut door tha kyunki pahad ke karan gaon se shehar ka raasta bahut lamba tha. Samay par ilaaj na milne ke karan Phaguniya ki maut ho gayi.",
+        "image": "/media/stories/story-2/page-2.webp",
+        "audio": "/media/stories/story-2/page-2.mp3",
+        "after": "Us din Dashrath ne sirf apni patni nahi, apni puri duniya kho di."
+      },
+      {
+        "id": "iii",
+        "title": "Ek Asambhav Faisla",
+        "body": "Logon ne socha Dashrath kuch din royega aur phir sab kuch bhool jayega. Lekin usne ek aisa faisla liya jise sunkar poora gaon hans pada. Usne kaha, 'Main is pahad ko kaat kar raasta banaunga.' Sabne use pagal kaha. Kisi ne uska saath nahi diya. Lekin Dashrath ne kisi ki baat nahi suni.",
+        "image": "/media/stories/story-2/page-3.webp",
+        "audio": "/media/stories/story-2/page-3.mp3",
+        "after": "Kabhi kabhi duniya ki sabse badi hasi kal ki sabse badi taali ban jaati hai."
+      },
+      {
+        "id": "iv",
+        "title": "Sirf Hathoda Aur Chisel",
+        "body": "Dashrath ke paas sirf ek hathoda aur ek chisel thi. Roz subah se shaam tak woh akela pahad todta. Dhoop, baarish aur thand uska hausla kabhi nahi tod paayi. Har din pahad ka sirf ek chhota tukda toot ta tha, lekin Dashrath har tukde ke saath apne sapne ke aur kareeb pahunch raha tha.",
+        "image": "/media/stories/story-2/page-4.webp",
+        "audio": "/media/stories/story-2/page-4.mp3",
+        "after": "Badi jeet chhote chhote kadmon se milti hai."
+      },
+      {
+        "id": "v",
+        "title": "22 Saal Ka Sangharsh",
+        "body": "Ek din nahi, ek mahina nahi, balki 22 saal tak Dashrath ne bina rukke pahad ko kaata. Kai baar log uska mazaak udaate, kai baar use pagal bulate. Lekin uska jawaab hamesha ek hi hota tha—kaam. Dheere dheere pahad me ek raasta dikhai dene laga.",
+        "image": "/media/stories/story-2/page-5.gif",
+        "audio": "/media/stories/story-2/page-5.mp3",
+        "after": "Samay unhi ka saath deta hai jo rukte nahi."
+      },
+      {
+        "id": "vi",
+        "title": "Sapna Sach Hua",
+        "body": "1982 me Dashrath Manjhi ne akela hi 110 meter lamba, 9 meter chauda aur lagbhag 7 meter gehra raasta bana diya. Is naye raaste ne gaon aur shehar ke beech ki doori ko lagbhag 55 kilometer se ghata kar sirf 15 kilometer kar diya.",
+        "image": "/media/stories/story-2/page-6.webp",
+        "audio": "/media/stories/story-2/page-6.mp3",
+        "after": "Ek insaan ka hausla hazaron logon ki zindagi badal sakta hai."
+      },
+      {
+        "id": "vii",
+        "title": "Duniya Ne Pehchana",
+        "body": "Jis aadmi ko kabhi log pagal kehte the, aaj usi Dashrath Manjhi ko 'Mountain Man' ke naam se poori duniya jaanti hai. Sarkar ne bhi unke kaam ko samman diya aur unki kahani laakhon logon ke liye prerna ban gayi.",
+        "image": "/media/stories/story-2/page-7.webp",
+        "audio": "/media/stories/story-2/page-7.mp3",
+        "after": "Asli pehchan mehnat se banti hai, kismat se nahi."
+      },
+      {
+        "id": "viii",
+        "title": "Ek Raasta, Hazaron Zindagi",
+        "body": "Dashrath ke banaye hue raaste se bachche school jaane lage, beemar log jaldi hospital pahunchne lage aur gaon ke logon ki zindagi aasaan ho gayi. Jo pahad kabhi rukawat tha, wahi ab umeed ka raasta ban chuka tha.",
+        "image": "/media/stories/story-2/page-8.webp",
+        "audio": "/media/stories/story-2/page-8.mp3",
+        "after": "Asli safalta wahi hai jo doosron ki zindagi aasaan bana de."
+      },
+      {
+        "id": "ix",
+        "title": "Aaj Bhi Zinda Hai Kahani",
+        "body": "Dashrath Manjhi aaj hamare beech nahi hain, lekin unki kahani har us insaan me zinda hai jo mushkilon ke saamne haar nahi maanta. Unhone sabit kar diya ki agar irade mazboot ho, to pahad bhi jhuk jaate hain.",
+        "image": "/media/stories/story-2/page-9.webp",
+        "audio": "/media/stories/story-2/page-9.mp3",
+        "after": "Hausla kisi bhi hathiyar se zyada taqatwar hota hai."
+      },
+      {
+        "id": "x",
+        "title": "Mountain Man",
+        "body": "Dashrath Manjhi ki kahani hume sikhati hai ki ek aam insaan bhi itihaas likh sakta hai. Na paisa, na taqat aur na hi sarkari madad unki sabse badi shakti thi. Unki sabse badi taqat thi unka atal vishwas aur kabhi haar na maan ne wala jazba. Jab bhi zindagi mushkil lage, Mountain Man ko yaad karna—kyunki jisne pahad kaat diya, usne duniya ko sikha diya ki kuch bhi asambhav nahi hota.",
+        "image": "/media/stories/story-2/page-10.webp",
+        "audio": "/media/stories/story-2/page-10.mp3",
+        "after": "Jab irade pahad se bade ho jaate hain, tab pahad raasta ban jaate hain."
+      }
+    ]
+  },
+  {
+    "id": "story3",
+    "category": "Mythology & Epics",
+    "genre": [
+      "Mythology",
+      "Drama",
+      "Epic"
+    ],
+    "language": "Hindi (Roman)",
+    "tags": [
+      "Karna",
+      "Mahabharat",
+      "Surya Putra",
+      "Daanveer",
+      "Krishna",
+      "Arjun",
+      "Kunti",
+      "Epic",
+      "Drama",
+      "Indian Mythology"
+    ],
+    "featured": true,
+    "title": "Karna – Mahabharat Ka Sabse Akela Yoddha",
+    "thumbnail": "/media/stories/story-3/thumbnail.webp",
+    "ambient": "/media/stories/story-3/ambient.mp3",
+    "author": "Open Stories",
+    "authorBio": "Bringing timeless stories inspired by ancient Indian epics through cinematic storytelling and immersive audio experiences.",
+    "publishedDate": "July 2026",
+    "readingTime": "16 min read",
+    "listeningTime": "26 min listen",
+    "description": "Ek aisa yoddha... jise janm se pehle hi kismat ne hara diya tha. Phir bhi usne kabhi apna vachan, apna daan aur apni maryada nahi chhodi. Yeh Karna ki kahani hai.",
+    "endNote": "Kuch log jeetkar amar hote hain... Aur kuch log apni haar se.",
+    "authorNote": "Yeh kahani Mahabharata se prerit ek mool punarkathan hai. Isme ghatnaon ko bhavnatmak aur cinematic andaaz me pesh kiya gaya hai, taaki Karna ke jeevan ke tyag, wafadari aur maryada ko gehraai se mehsoos kiya ja sake.",
+    "pages": [
+      {
+        "id": "i",
+        "title": "Ek Tokri... Aur Ek Raaz",
+        "body": "Subah ka pehla ujala tha. Ganga shaant beh rahi thi. Us paani par ek lakdi ki tokri tair rahi thi. Uske andar ek navjat bachcha tha. Uske sharir par janm se hi chamakta hua Kavach tha. Kaano me divya Kundal. Door kinare par ek aurat ro rahi thi. 'Mujhe maaf kar dena... mere bete.'",
+        "image": "/media/stories/story-3/page-1.webp",
+        "audio": "/media/stories/story-3/page-1.mp3",
+        "after": "Tokri dheere dheere kinare se door hoti gayi... Aur us bachche ki kismat usse uski maa se bhi door le gayi."
+      },
+      {
+        "id": "ii",
+        "title": "Jisne Khoon Nahi... Dil Diya",
+        "body": "Kuch der baad ek saarathi ne tokri dekhi. Uska naam tha Adhirath. Usne bachche ko baahon me uthaya. Ghar pahunchte hi Radha ki aankhon me aansu aa gaye. 'Bhagwan ne hume beta diya hai.' Us din us bachche ka naam rakha gaya... Karna.",
+        "image": "/media/stories/story-3/page-2.webp",
+        "audio": "/media/stories/story-3/page-2.mp3",
+        "after": "Karna ko maa mil gayi thi... Lekin uski asli pehchaan abhi bhi Ganga ki lehron me chhupi hui thi."
+      },
+      {
+        "id": "iii",
+        "title": "Ek Sapna",
+        "body": "Bachpan se hi Karna ko dhanush pasand tha. Baaki bachche khelte the. Karna nishana lagata tha. Har teer pehle se zyada sahi lagta. Radha muskura kar kehti... 'Tu ek din bahut bada yoddha banega.'",
+        "image": "/media/stories/story-3/page-3.webp",
+        "audio": "/media/stories/story-3/page-3.mp3",
+        "after": "Lekin duniya sapno ko nahi dekhti... Woh sirf janm dekhna jaanti thi."
+      },
+      {
+        "id": "iv",
+        "title": "Pehla Zakham",
+        "body": "Karna Guru Drona ke paas pahucha. 'Gurudev... Mujhe bhi dhanurvidya seekhni hai.' Drona ne poocha... 'Tum kis kul ke ho?' 'Ek saarathi ka putra.' Sab kuch badal gaya.",
+        "image": "/media/stories/story-3/page-4.webp",
+        "audio": "/media/stories/story-3/page-4.mp3",
+        "after": "'Sut Putra rajkumaron ke saath nahi seekh sakta.'... Yeh shabd Karna ke dil me hamesha ke liye utar gaye."
+      },
+      {
+        "id": "v",
+        "title": "Kasam",
+        "body": "Karna wahan se bina kuch kahe chala gaya. Na usne aansu bahaye. Na gussa kiya. Usne aasman ki taraf dekha. Aur dheere se bola... 'Ek din duniya mera naam yaad rakhegi.'",
+        "image": "/media/stories/story-3/page-5.gif",
+        "audio": "/media/stories/story-3/page-5.mp3",
+        "after": "Us din ek sapna paida hua... Aur usi pal kismat ne us sapne ke khilaaf jang shuru kar di."
+      },
+      {
+        "id": "vi",
+        "title": "Jhooth Ya Adhikaar?",
+        "body": "Karna Parashurama ke paas gaya. 'Main ek Brahman hoon.' Yeh uska pehla jhooth tha. Lekin us jhooth ke peeche lalach nahi tha. Sirf ek sapna tha... Seekhne ka.",
+        "image": "/media/stories/story-3/page-6.webp",
+        "audio": "/media/stories/story-3/page-6.mp3",
+        "after": "Parashurama ne use apna shishya bana liya... Lekin sach zyada din tak chhupne wala nahi tha."
+      },
+      {
+        "id": "vii",
+        "title": "Sabse Priya Shishya",
+        "body": "Din mahino me badal gaye. Mahine saalon me. Karna ne apni poori zindagi Guru Parashurama ki seva me laga di. Har astra... Har mantra... Har rahasya... Sab usne seekh liya. Parashurama kehte... 'Tum mere sabse uttam shishya ho.'",
+        "image": "/media/stories/story-3/page-7.webp",
+        "audio": "/media/stories/story-3/page-7.mp3",
+        "after": "Guru ka ashirvaad mil chuka tha... Lekin kismat ab bhi chup thi."
+      },
+      {
+        "id": "viii",
+        "title": "Khoon... Lekin Cheekh Nahi",
+        "body": "Ek dopahar Guru Parashurama so rahe the. Unka sir Karna ki god me tha. Tabhi ek bhayanak keeda Karna ki jaangh me ghus gaya. Khoon behne laga. Dard asahniya tha. Lekin Karna hila tak nahi. Guru ki neend uske dard se zyada keemti thi.",
+        "image": "/media/stories/story-3/page-8.webp",
+        "audio": "/media/stories/story-3/page-8.mp3",
+        "after": "Khoon zameen tak pahunch gaya... Aur Guru ki aankh khul gayi."
+      },
+      {
+        "id": "ix",
+        "title": "Shraap",
+        "body": "Parashurama khade ho gaye. 'Itna dard koi Brahman nahi seh sakta.' 'Sach batao... tum kaun ho?' Karna chup raha. Phir usne sab sach bata diya. Guru ki aankhon me gussa tha. 'Tumne mujhe dhokha diya.'",
+        "image": "/media/stories/story-3/page-9.webp",
+        "audio": "/media/stories/story-3/page-9.mp3",
+        "after": "Agle hi pal... Ek shraap ne Karna ki poori zindagi badal di."
+      },
+      {
+        "id": "x",
+        "title": "Maut Ka Faisla",
+        "body": "'Jis din tumhe is vidya ki sabse zyada zarurat hogi...' 'Us din tum sab bhool jaoge.' Parashurama ke shabd hawa me goonj uthe. Karna ne sir jhuka diya. Na usne behas ki. Na shikayat.",
+        "image": "/media/stories/story-3/page-10.webp",
+        "audio": "/media/stories/story-3/page-10.mp3",
+        "after": "Karna wahan se chala gaya... Lekin woh shraap uske saath chal pada."
+      },
+      {
+        "id": "xi",
+        "title": "Maidan Me Ek Anjaan Yoddha",
+        "body": "Kuch saal baad. Hastinapur ka maha pradarshan shuru hua. Arjun ek ke baad ek adbhut nishane laga raha tha. Sab taaliyan baja rahe the. Guru Drona garv se muskuraye. 'Tumse bada dhanurdhar koi nahi.'",
+        "image": "/media/stories/story-3/page-11.gif",
+        "audio": "/media/stories/story-3/page-11.mp3",
+        "after": "Tabhi bheed me se ek awaaz aayi... 'Ek aur hai.'"
+      },
+      {
+        "id": "xii",
+        "title": "Arjun... Main Tayyar Hoon",
+        "body": "Sabki nazar us yuva par tik gayi. Woh tha... Karna. Usne dhanush uthaya. Arjun ke har karname ko dohra diya. Maidan me sannata chha gaya. Karna ne seedha Arjun ki taraf dekha. 'Kya tum mujhse yuddh karoge?'",
+        "image": "/media/stories/story-3/page-12.webp",
+        "audio": "/media/stories/story-3/page-12.mp3",
+        "after": "Arjun jawab deta... Lekin usse pehle... Ek sawaal ne sab kuch badal diya."
+      },
+      {
+        "id": "xiii",
+        "title": "Tum Ho Kaun?",
+        "body": "Kripacharya aage badhe. 'Tumhara kul?' 'Tumhare pita kaun hain?' Karna chup raha. Tabhi Adhirath bheed me aa gaye. Sab samajh gaye. 'Yeh ek saarathi ka putra hai.'",
+        "image": "/media/stories/story-3/page-13.webp",
+        "audio": "/media/stories/story-3/page-13.mp3",
+        "after": "Ek hi shabd goonja... 'Sut Putra.'"
+      },
+      {
+        "id": "xiv",
+        "title": "Sabse Gehri Chot",
+        "body": "'Sut Putra bhi rajkumaron ko chunauti dega?' Sab hansne lage. Karna chup tha. Uski mutthi band ho chuki thi. Uski aankhen nam thi. Lekin usne sir nahi jhukaya.",
+        "image": "/media/stories/story-3/page-14.webp",
+        "audio": "/media/stories/story-3/page-14.mp3",
+        "after": "Tabhi... Ek awaaz ne poori sabha ko khamosh kar diya."
+      },
+      {
+        "id": "xv",
+        "title": "Duryodhan",
+        "body": "'Bas!' Sabki nazar us taraf mud gayi. Duryodhan khada tha. 'Yoddha ka janm nahi... Uska parakram dekha jaata hai.' Karna pehli baar kisi ko apne liye bolte dekh raha tha.",
+        "image": "/media/stories/story-3/page-15.webp",
+        "audio": "/media/stories/story-3/page-15.mp3",
+        "after": "Lekin Duryodhan sirf bolne nahi aaya tha..."
+      },
+      {
+        "id": "xvi",
+        "title": "Angraj",
+        "body": "'Aaj se Karna... Ang desh ka Raja hai.' Poora maidan sann reh gaya. Wahin rajtilak hua. Karna ki aankhon me aansu aa gaye. Pehli baar... Kisi ne uska janm nahi dekha. Sirf uski kabiliyat dekhi.",
+        "image": "/media/stories/story-3/page-16.webp",
+        "audio": "/media/stories/story-3/page-16.mp3",
+        "after": "Usi pal Karna ne ek vachan liya... Jo uski maut tak nahi toota."
+      },
+      {
+        "id": "xvii",
+        "title": "Zindagi Bhar Ka Karz",
+        "body": "'Mitra...' Karna ne Duryodhan ki taraf dekha. 'Jab poori duniya mere khilaaf thi... Tab tum mere saath khade the.' 'Ab meri aakhri saans bhi tumhari hogi.' Duryodhan bas muskuraya.",
+        "image": "/media/stories/story-3/page-17.webp",
+        "audio": "/media/stories/story-3/page-17.mp3",
+        "after": "Us din dosti nahi... Ek amar vachan janma tha."
+      },
+      {
+        "id": "xviii",
+        "title": "Daanveer",
+        "body": "Samay beetta gaya. Ab Karna Angraj tha. Har subah Surya ko pranam karta. Uske baad mahal ke dwar khulte. Jo maangta... Woh paata. Kabhi kisi ko khaali haath nahi lautaya.",
+        "image": "/media/stories/story-3/page-18.webp",
+        "audio": "/media/stories/story-3/page-18.mp3",
+        "after": "Ek din... Ek aisa yachak aaya... Jo Karna ki zindagi badalne wala tha."
+      },
+      {
+        "id": "xix",
+        "title": "Bhikhari Ya Devta?",
+        "body": "Subah ka samay tha. Karna Surya ko jal arpit kar chuka tha. Tabhi ek vriddh Brahman uske saamne aaya. 'Angraj... mujhe daan chahiye.' Karna muskuraya. 'Jo chaho maang lo.'",
+        "image": "/media/stories/story-3/page-19.webp",
+        "audio": "/media/stories/story-3/page-19.mp3",
+        "after": "Lekin agle shabd sunkar... Mahalon ki hawa bhi jaise tham gayi."
+      },
+      {
+        "id": "xx",
+        "title": "Sabse Anmol Daan",
+        "body": "'Mujhe tumhara Kavach aur Kundal chahiye.' Karna kuch pal chup raha. Woh samajh gaya. Yeh koi aam Brahman nahi tha. Yeh swayam Devraj Indra the. Phir bhi... Usne muskurakar haan kar di.",
+        "image": "/media/stories/story-3/page-20.webp",
+        "audio": "/media/stories/story-3/page-20.mp3",
+        "after": "Sab dekhte reh gaye... Aur Karna ne apni jaan ki hifazat bhi daan kar di."
+      },
+      {
+        "id": "xxi",
+        "title": "Khoon Ka Daan",
+        "body": "Karna ne apne sharir se Kavach alag kiya. Kundal utaare. Khoon behne laga. Dard bahut tha. Lekin uske chehre par muskaan thi. Indra bhi nishabd ho gaye.",
+        "image": "/media/stories/story-3/page-21.webp",
+        "audio": "/media/stories/story-3/page-21.mp3",
+        "after": "Indra ne daan le liya... Lekin badle me ek divya astra dekar chale gaye."
+      },
+      {
+        "id": "xxii",
+        "title": "Sabse Bada Sach",
+        "body": "Yuddh se pehle. Krishna ne Karna ko bulaya. 'Tum Sut Putra nahi ho.' Karna ki saansein tham gayin. 'Tum Kunti ke pehle putra ho.' 'Tum Pandavo ke sabse bade bhai ho.'",
+        "image": "/media/stories/story-3/page-22.webp",
+        "audio": "/media/stories/story-3/page-22.mp3",
+        "after": "Jis sach ko Karna poori zindagi dhoondta raha... Woh aaj uske saamne khada tha."
+      },
+      {
+        "id": "xxiii",
+        "title": "Krishna Ka Prastaav",
+        "body": "'Mere saath chalo.' Krishna bole. 'Hastinapur ka rajsinghasan tumhara hoga.' 'Pandav tumhare chhote bhai honge.' 'Arjun tumhare saamne sir jhukayega.' Poora bhavishya badal sakta tha.",
+        "image": "/media/stories/story-3/page-23.webp",
+        "audio": "/media/stories/story-3/page-23.mp3",
+        "after": "Krishna chup ho gaye... Ab faisla Karna ko karna tha."
+      },
+      {
+        "id": "xxiv",
+        "title": "Ek Vachan... Sabse Bada",
+        "body": "Karna muskuraya. 'Mujhe rajya nahi chahiye.' 'Duryodhan ne mujhe tab apnaya...' 'Jab duniya ne mujhe thukra diya tha.' 'Main uska saath kabhi nahi chhodunga.' Krishna chup ho gaye.",
+        "image": "/media/stories/story-3/page-24.webp",
+        "audio": "/media/stories/story-3/page-24.mp3",
+        "after": "Krishna samajh gaye... Aaj unke saamne sirf ek yoddha nahi... Ek aisa insaan khada tha jiska vachan uski zindagi se bhi bada tha."
+      },
+      {
+        "id": "xxv",
+        "title": "Ek Maa... Bahut Der Se",
+        "body": "Agli subah. Ganga ke kinare. Karna Surya ko pranam kar raha tha. Peeche se ek awaaz aayi. 'Beta...' Karna dheere se mudha. Uske saamne Kunti khadi thi.",
+        "image": "/media/stories/story-3/page-25.webp",
+        "audio": "/media/stories/story-3/page-25.mp3",
+        "after": "Karna kuch bolta... Usse pehle Kunti ki aankhon se aansu behne lage."
+      },
+      {
+        "id": "xxvi",
+        "title": "Sabse Bhaari Sach",
+        "body": "'Main hi tumhari maa hoon.' Hawa jaise ruk gayi. Karna bas dekhta raha. Na gussa. Na sawaal. Sirf khamoshi.",
+        "image": "/media/stories/story-3/page-26.webp",
+        "audio": "/media/stories/story-3/page-26.mp3",
+        "after": "Kunti ne haath jod diye... Aur ek aisi baat kahi... Jo Karna ka dil tod dene wali thi."
+      },
+      {
+        "id": "xxvii",
+        "title": "Maa Ki Bheekh",
+        "body": "'Mere saath aa jao.' 'Pandavo ke paas aa jao.' 'Yeh yuddh mat hone do.' Kunti ro rahi thi. Har shabd me ek maa ka dard tha.",
+        "image": "/media/stories/story-3/page-27.webp",
+        "audio": "/media/stories/story-3/page-27.mp3",
+        "after": "Karna ne aankhen band kar li... Jaise poori zindagi uske saamne khadi ho."
+      },
+      {
+        "id": "xxviii",
+        "title": "Ek Beta... Ek Mitr",
+        "body": "'Kaash...' 'Aap mujhe bachpan me gale laga leti.' 'Par ab bahut der ho chuki hai.' 'Main aapka beta hoon...' 'Lekin Duryodhan ka mitr bhi.'",
+        "image": "/media/stories/story-3/page-28.webp",
+        "audio": "/media/stories/story-3/page-28.mp3",
+        "after": "Karna ne ek aur vachan diya... Jo Mahabharat ka itihaas badal gaya."
+      },
+      {
+        "id": "xxix",
+        "title": "Paanch Putra",
+        "body": "'Main Arjun ke alawa kisi Pandav ko nahi maarunga.' 'Yuddh ke baad bhi...' 'Aap paanch putron ki maa rahengi.' 'Ya Arjun rahega...' 'Ya Karna.' Kunti phoot phoot kar ro padi.",
+        "image": "/media/stories/story-3/page-29.webp",
+        "audio": "/media/stories/story-3/page-29.mp3",
+        "after": "Maa chali gayi... Aur Karna akela aasman ki taraf dekhne laga."
+      },
+      {
+        "id": "xxx",
+        "title": "Yuddh",
+        "body": "Kurukshetra. Shankh baj uthe. Rath daudne lage. Dharti kaanp uthi. Har taraf bas yuddh tha. Aur us yuddh ke beech... Karna aur Arjun ek doosre ke saamne aa khade hue.",
+        "image": "/media/stories/story-3/page-30.webp",
+        "audio": "/media/stories/story-3/page-30.mp3",
+        "after": "Dono ne dhanush uthaya... Aur Mahabharat ka sabse mahaan yuddh shuru hua."
+      },
+      {
+        "id": "xxxi",
+        "title": "Do Mahaan Dhanurdhar",
+        "body": "Teer par teer chhoot rahe the. Aasmaan andhera pad gaya. Har vaar ka jawaab mil raha tha. Arjun rukne ko tayyar nahi tha. Karna jhukne ko tayyar nahi tha. Devta bhi yeh yuddh dekh rahe the.",
+        "image": "/media/stories/story-3/page-31.gif",
+        "audio": "/media/stories/story-3/page-31.mp3",
+        "after": "Tabhi... Ek aisi ghatna hui... Jisne itihaas badal diya."
+      },
+      {
+        "id": "xxxii",
+        "title": "Dharti Ne Thaam Liya",
+        "body": "Karna ke rath ka pahiya dharti me dhans gaya. Usne poori taakat laga di. Lekin pahiya hila bhi nahi. Usne Arjun ki taraf dekha. 'Bas ek pal...' 'Mujhe pahiya nikal lene do.'",
+        "image": "/media/stories/story-3/page-32.webp",
+        "audio": "/media/stories/story-3/page-32.mp3",
+        "after": "Arjun thehar gaya... Lekin Krishna ne usse rok liya."
+      },
+      {
+        "id": "xxxiii",
+        "title": "Krishna Ki Awaaz",
+        "body": "'Arjun!' 'Ab rukna mat.' 'Jab Abhimanyu akela tha...' 'Tab kisi ne niyam yaad nahi rakhe.' Krishna ki awaaz maidan me goonj uthi. Karna chup tha.",
+        "image": "/media/stories/story-3/page-33.webp",
+        "audio": "/media/stories/story-3/page-33.mp3",
+        "after": "Karna ne dheere se aasman ki taraf dekha... Jaise woh apni kismat ko pehchaan chuka tha."
+      },
+      {
+        "id": "xxxiv",
+        "title": "Shraap Sach Ho Gaya",
+        "body": "Karna ne Brahmastra yaad karna chaha. Mantra yaad nahi aaya. Parashurama ka shraap... Aaj sach ho chuka tha. Usne aankhen band kar li. Aur halki si muskaan di.",
+        "image": "/media/stories/story-3/page-34.webp",
+        "audio": "/media/stories/story-3/page-34.mp3",
+        "after": "'Toh yahi mera ant hai...' Karna ne mann hi mann socha."
+      },
+      {
+        "id": "xxxv",
+        "title": "Aakhri Teer",
+        "body": "Krishna ne sanket diya. 'Arjun!' Gandiv ki taar baji. Ek divya baan nikla. Agle hi pal... Karna dharti par gir chuka tha. Suraj dheere dheere dhalne laga.",
+        "image": "/media/stories/story-3/page-35.webp",
+        "audio": "/media/stories/story-3/page-35.mp3",
+        "after": "Yuddh khatam nahi hua tha... Lekin ek yug zaroor samaapt ho gaya tha."
+      },
+      {
+        "id": "xxxvi",
+        "title": "Sabse Dukhad Sach",
+        "body": "Yuddh samaapt hua. Krishna ne Pandavo ko sach bataya. 'Karna... tumhara bada bhai tha.' Sab khamosh ho gaye. Arjun ke haath se Gandiv chhoot gaya. Kunti roti rahi.",
+        "image": "/media/stories/story-3/page-36.webp",
+        "audio": "/media/stories/story-3/page-36.mp3",
+        "after": "Jeet mil chuki thi... Lekin kisi ke chehre par khushi nahi thi."
+      },
+      {
+        "id": "xxxvii",
+        "title": "Karna Amar Ho Gaya",
+        "body": "Usne maa kho di. Apni pehchaan kho di. Guru ka ashirvaad bhi kho diya. Apni suraksha daan kar di. Apni zindagi bhi de di. Lekin... Apna vachan kabhi nahi toda. Isi liye... Aaj bhi duniya use ek hi naam se yaad karti hai... Daanveer Karna.",
+        "image": "/media/stories/story-3/page-37.webp",
+        "audio": "/media/stories/story-3/page-37.mp3",
+        "after": "Kuch log itihaas me jeete hain... Lekin Karna... Insaanon ke dilon me amar ho gaya."
+      }
+    ]
+  },
+  {
+    "id": "story4",
+    "category": "Historical",
+    "genre": [
+      "Historical Fiction",
+      "Samurai",
+      "Thriller"
+    ],
+    "language": "English",
+    "tags": [
+      "Miyamoto Musashi",
+      "Samurai",
+      "Japan",
+      "Historical Fiction",
+      "Thriller"
+    ],
+    "featured": true,
+    "title": "Miyamoto Musashi — The Sword That Never Yielded",
+    "thumbnail": "/media/stories/story-4/thumbnail.webp",
+    "ambient": "/media/stories/story-4/ambient.mp3",
+    "author": "Open Stories",
+    "authorBio": "Cinematic historical fiction inspired by the legends of Miyamoto Musashi.",
+    "publishedDate": "August 2026",
+    "readingTime": "20 min read",
+    "listeningTime": "30 min listen",
+    "description": "A reckless village boy becomes Miyamoto Musashi, facing war, betrayal, and the duel that will define his legend.",
+    "endNote": "The final enemy was never the man across the blade. It was the fear within the hand that held it.",
+    "authorNote": "This is historical fiction inspired by the life and legends of Miyamoto Musashi.",
+    "pages": [
+      {
+        "id": "i",
+        "title": "The Boy Called Bennosuke",
+        "image": "/media/stories/story-4/page-1.webp",
+        "audio": "/media/stories/story-4/page-1.mp3",
+        "body": "Before he was Musashi, he was Bennosuke: a boy from Mimasaka with quick fists and a father whose silence cut deeper than anger. Every fight won him a little fear from others, but never the one thing he wanted—his father's approval.",
+        "after": "At thirteen, Bennosuke heard that a travelling sword master had challenged the entire village."
+      },
+      {
+        "id": "ii",
+        "title": "The First Blood",
+        "audio": "/media/stories/story-4/page-2.mp3",
+        "body": "Arima Kihei was a travelling master, tall enough to cast a shadow across the village square. Bennosuke arrived carrying a branch. The adults laughed until the boy moved. Fear sharpened him; rage carried him closer. When the duel ended, Kihei lay still and every laugh had vanished. Bennosuke stared at his hands, waiting for triumph. What came instead was silence.",
+        "after": "No one praised him. The villagers pulled their children away, and his father did not look at him for a long time. “You won,” the old man finally said, his voice hard as stone. “Now learn what victory takes.” That night Bennosuke washed blood from a branch until dawn, but the red remained in his mind."
+      },
+      {
+        "id": "iii",
+        "title": "Leaving Home",
+        "image": "/media/stories/story-4/page-2.webp",
+        "audio": "/media/stories/story-4/page-3.mp3",
+        "body": "His father gave him no farewell. Bennosuke left before sunrise with a blade, dry rice, and one furious promise: he would return only when the world had learned his name. On the road he met Matahachi, a friend who believed war would make them heroes.",
+        "after": "They walked toward Sekigahara, where thousands of men were already marching toward death."
+      },
+      {
+        "id": "iv",
+        "title": "Rain at Sekigahara",
+        "audio": "/media/stories/story-4/page-4.mp3",
+        "body": "Rain washed the colour from Sekigahara, leaving iron-grey sky, black mud, and red that would not fade. Bennosuke woke beneath a dead man's arm. Matahachi was gone. His shoulder burned, but the battlefield was quieter than death itself. He had come seeking a name; instead, he found the cost of one.",
+        "after": "Horsemen searched the field for survivors. Bennosuke took a broken wooden sword and fought because there was nothing else left to do. When the last rider fled, a monk stepped from the pines. He studied the shaking boy and said, “You are alive. That is not the same as knowing how to live.”"
+      },
+      {
+        "id": "v",
+        "title": "The Monk's Trap",
+        "image": "/media/stories/story-4/page-3.webp",
+        "audio": "/media/stories/story-4/page-5.mp3",
+        "body": "The monk called himself Takuan. Musashi followed him north, but the old man gave no lesson and no kindness. In the next village, soldiers surrounded Bennosuke. A net dropped from a rooftop, trapping him before he could raise his sword. Takuan had planned every step.",
+        "after": "“A blade without direction becomes a beast,” Takuan said as Bennosuke struggled beneath the net."
+      },
+      {
+        "id": "vi",
+        "title": "The Name of the Dead",
+        "audio": "/media/stories/story-4/page-6.mp3",
+        "body": "For three days Bennosuke hung from a tree, unable to sleep and unable to escape. At last Takuan cut him down and placed a hand on his shoulder. “Bennosuke died at Sekigahara,” he said. “Do not insult the dead by becoming him again.” Then the monk gave him a new name: Miyamoto Musashi.",
+        "after": "Musashi wanted to reject it, but the name felt heavier than his sword. Takuan led him into the mountains, where no one cared about legends. “If you want power,” the monk said, “first survive the person you have been.” Musashi looked back at the road, then followed without speaking."
+      },
+      {
+        "id": "vii",
+        "title": "The Empty Cup",
+        "image": "/media/stories/story-4/page-4.webp",
+        "audio": "/media/stories/story-4/page-7.mp3",
+        "body": "At the temple, Musashi expected sword lessons. Takuan gave him buckets, firewood, and silence. Weeks passed. One night Musashi threw down a bucket and demanded to be taught. Takuan filled a tea cup until it overflowed. “Nothing enters a cup already full,” he said.",
+        "after": "Musashi watched the tea spread across the floor, knowing the monk was speaking about him."
+      },
+      {
+        "id": "viii",
+        "title": "Learning to Wait",
+        "audio": "/media/stories/story-4/page-8.mp3",
+        "body": "Winter trained Musashi more harshly than any master. He carried water through snow, listened to wind against the shutters, and fought Takuan each morning with wooden swords. Every wild attack failed. Slowly, he learned to watch shoulders, breath, and feet. He learned that the first man to hurry was often the first man to lose.",
+        "after": "One dawn, Takuan attacked from behind a cedar. Musashi did not turn too soon. He waited for the sound to reveal its path, stepped aside, and touched the monk's sleeve with his blade. Takuan smiled once. “There,” he said. “You have finally stopped chasing fear.”"
+      },
+      {
+        "id": "ix",
+        "title": "Kyoto's Mirror",
+        "image": "/media/stories/story-4/page-5.gif",
+        "audio": "/media/stories/story-4/page-9.mp3",
+        "body": "A letter from Kyoto carried the crest of the Yoshioka school. Takuan gave Musashi a plain robe and one warning: “Kyoto will offer you mirrors. Do not mistake them for your face.” The city glittered ahead, full of temples, rumours, and armed men.",
+        "after": "At the dojo gate, Yoshioka Seijūrō smiled at Musashi's wooden sword."
+      },
+      {
+        "id": "x",
+        "title": "A Blossom Underfoot",
+        "audio": "/media/stories/story-4/page-10.mp3",
+        "body": "Seijūrō wore yellow silk and the confidence of a man used to being watched. “The mountain has sent me a boy with a stick,” he said. Musashi bowed. “Kyoto has sent me a man with many witnesses.” At sunrise, steel pursued wood across the courtyard until one wet blossom shifted beneath Seijūrō's foot.",
+        "after": "It was only a heartbeat. Musashi struck his wrist, and the katana spun into the morning light. Before it landed, Musashi's wooden sword rested beneath the master's chin. No one cheered. The silence became worse when Denshichirō, Seijūrō's giant brother, stepped forward and said, “Tomorrow, I break you.”"
+      },
+      {
+        "id": "xi",
+        "title": "The Giant's Challenge",
+        "image": "/media/stories/story-4/page-6.gif",
+        "audio": "/media/stories/story-4/page-11.mp3",
+        "body": "Denshichirō's practice sword was thick as a beam. Every strike shattered earth where Musashi had stood. “Stand still!” the giant roared. Musashi moved like water around stone, waiting for strength to become weight. When the giant's weapon struck the ground and stuck, one clean blow ended the duel.",
+        "after": "Musashi offered his hand, but Denshichirō saw only humiliation."
+      },
+      {
+        "id": "xii",
+        "title": "Night Hunters",
+        "audio": "/media/stories/story-4/page-12.mp3",
+        "body": "That night, masked swordsmen came through Musashi's inn window. A lantern broke, rain swept through the room, and steel flashed in the dark. Musashi disarmed them one by one, leaving every attacker alive. A young assassin fell to his knees and asked why he had been spared. “Dead enemies learn nothing,” Musashi said.",
+        "after": "The attackers fled across the roofs, but Musashi knew they had not acted alone. At the Yoshioka residence, elders were already planning a final challenge. They would place a child at its centre and hide an army behind him. Honour had become too small for their anger."
+      },
+      {
+        "id": "xiii",
+        "title": "The Child at Ichijōji",
+        "image": "/media/stories/story-4/page-7.webp",
+        "audio": "/media/stories/story-4/page-13.mp3",
+        "body": "At Ichijōji Field, hundreds of armed men waited behind a twelve-year-old heir named Matashichirō. Musashi saw the trap immediately. “Did you choose this?” he asked the child. The boy lowered his eyes. When the first arrow flew, Musashi stepped forward into the narrowing circle.",
+        "after": "The duel was a lie. The battle had begun."
+      },
+      {
+        "id": "xiv",
+        "title": "One Against Many",
+        "audio": "/media/stories/story-4/page-14.mp3",
+        "body": "Musashi did not fight the crowd; he moved through its mistakes. Spears trapped swords, archers lost their aim, and panic broke the formation faster than any blade. Dust hid him, then revealed him behind the line. At the edge of the field he found Matashichirō, returned the fallen banner, and placed it in the boy's hands.",
+        "after": "“Build your name with wisdom,” Musashi said. “Do not carry the anger of men who call fear loyalty.” Then he disappeared into the trees. Behind him, the survivors stood with weapons in their hands and no courage left to raise them. Kyoto never challenged the wandering ronin again."
+      },
+      {
+        "id": "xv",
+        "title": "The Road Without Applause",
+        "image": "/media/stories/story-4/page-8.webp",
+        "audio": "/media/stories/story-4/page-15.mp3",
+        "body": "Years carried Musashi through forests, fishing villages, and snow passes. He painted birds, studied rivers, and accepted fewer duels. An old fisherman asked whether he was unbeatable. Musashi smiled. “No. I lose every day.” “To whom?” the fisherman asked. “To the man I was yesterday.”",
+        "after": "One evening, a messenger arrived with a scroll bearing the name Sasaki Kojirō."
+      },
+      {
+        "id": "xvi",
+        "title": "The Dragon of the West",
+        "audio": "/media/stories/story-4/page-16.mp3",
+        "body": "Kojirō's sword was famous across Japan: long, fast, and nearly impossible to approach. His name travelled ahead of him like thunder. Merchants changed routes to witness the coming duel; samurai argued over a contest neither man had asked them to judge. Musashi sat beside the sea, watching waves erase every footprint on the shore.",
+        "after": "The boatman asked whether he was afraid. Musashi answered, “Yes.” The man stared, surprised. Musashi looked at the dark water. “Fear sees the cliff. Pretending there is no cliff is not courage.” Before sunrise, he stepped into the boat for Ganryū Island, carrying nothing but calm eyes and a blank piece of wood."
+      },
+      {
+        "id": "xvii",
+        "title": "The Carved Oar",
+        "image": "/media/stories/story-4/page-9.webp",
+        "audio": "/media/stories/story-4/page-17.mp3",
+        "body": "On the boat, Musashi carved a spare oar into a wooden blade. Shavings floated away on the tide. The boatman stared. “You will face Japan's greatest swordsman with wood?” Musashi tested the balance in his hand. “I will face a man.” Through the mist, Ganryū Island appeared.",
+        "after": "On the shore, Kojirō had already waited long enough for anger to begin working inside him."
+      },
+      {
+        "id": "xviii",
+        "title": "Ganryū Island",
+        "audio": "/media/stories/story-4/page-18.mp3",
+        "body": "Kojirō stood alone with his long sword dark against the rising sun. When Musashi stepped onto the sand, the spectators stopped breathing. “You made me wait,” Kojirō said. Musashi raised the carved oar. “I wanted to know whether your patience was as sharp as your sword.” Neither man moved.",
+        "after": "The sea wind crossed the island. Kojirō's hand tightened. Then steel flashed with terrifying speed. Musashi did not retreat. He stepped forward into the single opening hidden inside the strike. For one heartbeat there was no crowd, no legend, and no future—only two men and the price of one decision."
+      },
+      {
+        "id": "xix",
+        "title": "One Perfect Strike",
+        "image": "/media/stories/story-4/page-10.webp",
+        "audio": "/media/stories/story-4/page-19.mp3",
+        "body": "Wood met bone with a sound too small for the crowd's silence. Kojirō's sword fell into the sand. Musashi lowered his weapon immediately and bowed. For a breath, the two men were not legends or enemies. They were human beings standing at the end of everything they had prepared for.",
+        "after": "Before the crowd found its voice, Musashi was already walking back to the boat."
+      },
+      {
+        "id": "xx",
+        "title": "The Sword That Never Yielded",
+        "audio": "/media/stories/story-4/page-20.mp3",
+        "body": "In his final years, Musashi wrote of earth, water, fire, wind, and emptiness. He painted bamboo and taught students that the greatest technique was the one they never needed to use. The furious boy from Mimasaka had become a man who no longer needed the world to fear him.",
+        "after": "One student asked what made a warrior great. Musashi looked toward the mountains and answered, “The warrior who defeats another man wins once. The warrior who defeats himself is never finished.” Outside, the wind moved through the pines. The old wooden sword rested quietly beside the door."
+      }
+    ]
+  },
+  {
+    "id": "story5",
+    "category": "Horror",
+    "genre": [
+      "Horror",
+      "Psychological",
+      "Science Fiction"
+    ],
+    "language": "English",
+    "tags": [
+      "Horror",
+      "Sleep Experiment",
+      "Psychological Thriller",
+      "Fiction"
+    ],
+    "featured": true,
+    "title": "The Russian Sleep Experiment - A Fictional Horror Tale",
+    "thumbnail": "/media/stories/story-5/thumbnail.webp",
+    "ambient": "/media/stories/story-5/ambient.mp3",
+    "author": "Open Stories",
+    "authorBio": "Original fictional horror inspired by an internet urban legend.",
+    "publishedDate": "August 2026",
+    "readingTime": "16 min read",
+    "listeningTime": "24 min listen",
+    "description": "A fictional Soviet-era sleep study becomes a nightmare when its subjects discover what waits beyond exhaustion.",
+    "endNote": "Some doors are locked to protect what lies outside. Others are locked to protect what lies within.",
+    "authorNote": "This is a work of fiction inspired by an internet urban legend, not a real historical experiment.",
+    "pages": [
+      {
+        "id": "i",
+        "title": "The Sealed Ward",
+        "image": "/media/stories/story-5/page-1.webp",
+        "audio": "/media/stories/story-5/page-1.mp3",
+        "body": "In 1951, beneath a snowbound research hospital, five prisoners entered a steel room without windows. Doctors promised cigarettes, books, and freedom after thirty sleepless days. Then they released a pale experimental gas through the vents, and bolted the door behind them.",
+        "after": "For three nights, microphones carried card games, coughing, and nervous jokes. On the fourth, one prisoner whispered, \"Do not sleep.\" Another asked why. The answer came softly: \"Because something has been waiting for us to close our eyes from beneath the floor.\""
+      },
+      {
+        "id": "ii",
+        "title": "The Fourth Night",
+        "audio": "/media/stories/story-5/page-2.mp3",
+        "body": "Dr. Orlov watched the chamber through a green monitor, recording every tremor and every word. The prisoners talked constantly at first, trading memories for fear. By day four, their voices had changed. They no longer spoke to each other. Each man faced a different corner, murmuring private apologies to someone unseen. Orlov marked each phrase in his notebook, pretending it meant nothing, although the cold beneath his chair felt like breath. No vent faced the control room, yet the air kept moving.",
+        "after": "At 3:17 a.m., the youngest prisoner began laughing. It was not loud; it was careful, as though he feared waking a sleeping child. Orlov pressed the intercom. \"State your name.\" The laughter stopped. A dry voice answered, \"He is sleeping now. Please do not make him wake up.\" The speaker clicked again before Orlov could answer. A voice behind the man's laughter whispered, \"We have been awake much longer than you, Doctor.\""
+      },
+      {
+        "id": "iii",
+        "title": "Static",
+        "image": "/media/stories/story-5/page-2.webp",
+        "audio": "/media/stories/story-5/page-3.mp3",
+        "body": "On the sixth morning, the room went silent. The monitor showed five figures standing perfectly still, backs turned to the camera. Orlov ordered the shutter opened. A white hand slowly covered the lens from inside, though nobody had crossed the floor.",
+        "after": "The chief guard whispered, \"They know we are watching.\" Orlov checked the clock: one hundred forty-six hours awake. From the speaker came a child's voice. \"Doctor, turn on the light. I want you to see who has been standing behind you tonight.\""
+      },
+      {
+        "id": "iv",
+        "title": "The Request",
+        "audio": "/media/stories/story-5/page-4.mp3",
+        "body": "Orlov refused to look behind him. He summoned Colonel Vasin instead, a broad man who believed fear was a weakness to be beaten out of others. Vasin heard the recording, smiled without humor, and ordered the gas increased. \"Men are animals,\" he said. \"Animals stop screaming when they understand the cage.\" Orlov watched the gauge climb, its needle shaking against the glass. In the chamber, every prisoner tilted his head at exactly the same angle, listening to footsteps above them in silence.",
+        "after": "The prisoners finally spoke together. Their voices layered into one slow sentence: \"We are not asking to leave.\" Vasin leaned toward the microphone. \"Then what do you want?\" The answer arrived after a long breath. \"We want you to come inside, so we can learn how you dream.\" A hum rose beneath the floor, felt through bone. Vasin's smile faded. \"Who sings?\" Orlov asked. The prisoners answered, \"The first volunteers are here.\""
+      },
+      {
+        "id": "v",
+        "title": "The Red Glass",
+        "image": "/media/stories/story-5/page-3.webp",
+        "audio": "/media/stories/story-5/page-5.mp3",
+        "body": "On day nine, blood smeared the camera lens. Guards found the red window covered with cloth, torn from blankets and pressed into cracks. The prisoners had made a nest beneath the bedframes. Something inside it breathed slowly, deeper than any chest.",
+        "after": "Orlov demanded a head count. Five faces rose from the darkness, smiling with split lips. \"Five,\" they said. Then a sixth voice, low and wet, breathed from under the beds: \"Five awake. One hungry.\" Nobody moved until the sound of chewing began."
+      },
+      {
+        "id": "vi",
+        "title": "No Rescue",
+        "audio": "/media/stories/story-5/page-6.mp3",
+        "body": "The guards debated opening the door. Their rifles were loaded, but the locks had been designed to keep prisoners inside, not nightmares. Vasin called Moscow for authority. The telephone operator heard his request, paused, then asked him to repeat the room number. When he did, the line became silent. Orlov unfolded old blueprints and found no corridor beneath Ward Seven. Yet cold air leaked from the drain, carrying wet earth, burned hair, and a lullaby no living throat should know by heart.",
+        "after": "A woman finally whispered, \"Colonel, that ward was sealed in 1938.\" Vasin cursed and demanded her name. \"My name is irrelevant,\" she said. \"Listen carefully. If anyone in that room says they are not alone, do not believe them. They were never alone.\" Then the call ended. Vasin dropped the receiver. From the chamber, someone knocked three times. Then a voice whispered, \"A welded door is still a door when it opens.\""
+      },
+      {
+        "id": "vii",
+        "title": "The Door Opens",
+        "image": "/media/stories/story-5/page-4.webp",
+        "audio": "/media/stories/story-5/page-7.mp3",
+        "body": "At dawn, the gas failed. Alarms rang, and the chamber locks clicked loose. Vasin sent two guards inside. Their flashlights swept broken beds, blood-dark walls, and four prisoners kneeling in a circle. The fifth stood holding the missing guard's wedding ring.",
+        "after": "\"Where is Sergeant Malin?\" Vasin shouted. The standing prisoner looked toward the ceiling vent. \"He came through there,\" he replied. A guard raised his rifle. Behind him, something whispered his childhood nickname. He turned. The rifle fired, and every light went out."
+      },
+      {
+        "id": "viii",
+        "title": "What Remained",
+        "audio": "/media/stories/story-5/page-8.mp3",
+        "body": "Emergency lamps returned thirty seconds later. One guard lay dead. The other sat against the wall, rocking and repeating a bedtime prayer. Four prisoners had vanished. Only the youngest remained, strapped to a chair and trembling beneath a hospital sheet. Orlov approached him with a syringe, forcing himself to speak gently. Behind him, the emergency lamps blinked in sequence. Each flash showed another prisoner standing nearer, although no footsteps crossed the floor. On the final blink, the chair beside Orlov was occupied.",
+        "after": "\"Tell me what happened,\" Orlov said. The prisoner's eyes opened. They were clear, almost peaceful. \"You gave us a way to stay awake,\" he murmured. \"But waking up was never the problem.\" He smiled at the dark vent. \"The problem is that they noticed us dreaming.\" Orlov reached for the alarm, but its wires were black knots. The survivor watched sadly. \"They are not in vents,\" he said. \"They are between thoughts.\""
+      },
+      {
+        "id": "ix",
+        "title": "The Last Volunteer",
+        "image": "/media/stories/story-5/page-5.webp",
+        "audio": "/media/stories/story-5/page-9.mp3",
+        "body": "Vasin ordered the survivor sedated. The prisoner fought the needle with astonishing strength, begging them not to let him sleep. When drug entered his veins, every monitor flickered. From the sealed chamber, four voices began chanting his mother's lullaby faintly together.",
+        "after": "The prisoner screamed, \"I can see the door now!\" Orlov asked which door. Tears cut the man's smile. \"The one behind your eyes.\" Heartbeat stopped. Across the room, red observation glass cracked outward. In the reflection, Orlov saw himself inside the chamber."
+      },
+      {
+        "id": "x",
+        "title": "The Empty Corridor",
+        "audio": "/media/stories/story-5/page-10.mp3",
+        "body": "Vasin ordered the facility burned. Before the soldiers could carry fuel downstairs, every exit sealed electronically. The building speakers began playing the recording from the fourth night. Laughter drifted through empty corridors. Then the youngest prisoner's voice gave directions, calmly naming each soldier, each hiding place, and the exact moment they would fall asleep. At the stairwell, a sleeping soldier began speaking in Orlov's dead father's voice. \"Son,\" it said, \"please turn around. I found the room where mother keeps screaming still.\"",
+        "after": "Orlov found Vasin at the stairwell, staring into a maintenance hatch. \"There are people below us,\" Vasin said. Orlov heard scratching far beneath the concrete. \"How many?\" The colonel lifted his face. His pupils were black. \"Enough,\" he answered, \"to remember our names.\" Orlov dragged Vasin away from the hatch. Something below answered with his exact voice. \"Do not run,\" it called. \"You promised to watch until every last subject woke up.\""
+      },
+      {
+        "id": "xi",
+        "title": "Sleepwalkers",
+        "image": "/media/stories/story-5/page-6.webp",
+        "audio": "/media/stories/story-5/page-11.mp3",
+        "body": "Soldiers collapsed one by one, walking in circles with closed eyes. Orlov shook them, slapped them, shouted their names. They smiled. Their mouths moved around a silent song. At the corridor's end, four barefoot figures emerged silently, grey beneath emergency lights.",
+        "after": "Orlov raised a pistol. A prisoner raised one finger. \"Do not wake them,\" he said. \"They are finally safe.\" Behind each sleeping soldier, a thin shadow unfolded across the wall. It bent to each ear, and began teaching them how to scream."
+      },
+      {
+        "id": "xii",
+        "title": "The Doctor's Choice",
+        "audio": "/media/stories/story-5/page-12.mp3",
+        "body": "Orlov ran for the control room, pursued by footsteps that made no sound. He locked himself inside and searched the files for the original project report. Its first page was dated thirteen years before he was born. The lead researcher had written only one warning: the gas does not prevent sleep; it prevents forgetting. Orlov read the warning twice. Beneath it, another sentence emerged in ink as dark as dried blood: remembering is the price of opening your eyes after they close.",
+        "after": "Below the warning, Orlov found a photograph of the first test group. Five prisoners stood before the same red glass. Behind them stood a sixth shape, tall and blurred. The names beneath the photograph were his father, his mother, Vasin, and Orlov himself. The final name was scratched away. Behind him, the window fogged from inside. A child wrote one word on it: REMEMBER. Orlov turned; the sixth shape smiled at him."
+      },
+      {
+        "id": "xiii",
+        "title": "The Photograph",
+        "image": "/media/stories/story-5/page-7.webp",
+        "audio": "/media/stories/story-5/page-13.mp3",
+        "body": "A hand knocked on the control-room door. Orlov asked who was there. His voice answered, old and exhausted. \"Open it. I have been awake since the experiment began.\" The blurred shape in the photograph sharpened into a boy wearing his uniform.",
+        "after": "\"You remember now,\" said the voice outside. Orlov stepped back. \"I was never a prisoner.\" The voice laughed once. \"No, Doctor. You were the first one who volunteered.\" The door handle turned. On the monitor, Orlov watched himself enter the chamber again."
+      },
+      {
+        "id": "xiv",
+        "title": "Thirteen Years",
+        "audio": "/media/stories/story-5/page-14.mp3",
+        "body": "Memory returned like ice water. Orlov had been a child when his parents brought him downstairs. They promised a miracle: no more nightmares, no more sleep, no more fear. The gas filled his lungs. Behind the red glass, something had looked back from inside his dreams and offered him a bargain. The old speaker crackled. A woman began humming beyond the door, though every speaker wire had been cut. Orlov remembered that melody from childhood, playing beneath the sound of father's weeping.",
+        "after": "\"You gave it a door,\" the older voice said. \"Then you forgot where you put the key.\" Orlov stared at his reflection in the monitor. The boy inside it pressed both hands against the glass. \"Please,\" the boy mouthed, \"do not let me sleep again.\" Orlov pressed his hand against the monitor. The boy matched his palm. From somewhere below, a lock clicked open, and a thousand sleeping voices breathed, \"Welcome home.\""
+      },
+      {
+        "id": "xv",
+        "title": "The Key",
+        "image": "/media/stories/story-5/page-8.webp",
+        "audio": "/media/stories/story-5/page-15.mp3",
+        "body": "In a hidden drawer, Orlov found a brass key and one instruction: return the volunteer to sleep. He knew the chamber held no bed, only where sleep had gone wrong. Still, he unlocked the door. Child's footprints led toward the glass.",
+        "after": "At the chamber, the boy waited, keyhole in his chest. \"Will it hurt?\" Orlov asked. The boy considered this. \"Only until you remember everything.\" He placed Orlov's hand over the lock. From the dark room deep inside came sleepers whispering, \"Turn it.\""
+      },
+      {
+        "id": "xvi",
+        "title": "The Room Beyond",
+        "audio": "/media/stories/story-5/page-16.mp3",
+        "body": "The key turned, and the chamber walls folded away. Beyond them lay a vast black room filled with hospital beds. Every bed held someone sleeping with a smile frozen on their face. Orlov recognized guards, prisoners, doctors, and strangers from old photographs. Their dreaming bodies stretched farther than the light could reach. Behind the beds, doors opened onto every place Orlov had feared as a child: the cellar, the woods, his mother's grave. Each doorway breathed, waiting for a dreamer to enter.",
+        "after": "The boy took his hand. \"They are safe here,\" he said. Orlov heard breathing in the darkness, enormous and patient. \"Safe from what?\" The boy looked up. \"From waking.\" Above them, something opened one vast eye, and all the sleepers began to sob. The boy pointed toward the farthest bed. A woman slept with Orlov's face. \"Who is she?\" he asked. The boy smiled. \"The version of you that never woke up.\""
+      },
+      {
+        "id": "xvii",
+        "title": "The Wakeful Thing",
+        "image": "/media/stories/story-5/page-9.webp",
+        "audio": "/media/stories/story-5/page-17.mp3",
+        "body": "The creature had no face, only a shape made from every shadow Orlov feared. It leaned above the beds. When it spoke, it used his mother's voice. \"I kept you awake so you could watch.\" Orlov ran, but boy held him.",
+        "after": "\"It cannot cross unless you sleep,\" the boy whispered. Orlov understood the bargain. He had stayed awake for thirteen years, feeding the thing every nightmare he refused to remember. The creature bent closer. \"Close your eyes,\" it pleaded. \"I am so lonely.\""
+      },
+      {
+        "id": "xviii",
+        "title": "A Small Mercy",
+        "audio": "/media/stories/story-5/page-18.mp3",
+        "body": "Orlov saw Vasin asleep among the beds, smiling like a child. He saw the prisoners too, no longer wounded, dreaming of sunlight and open fields. For the first time, he understood what the creature had stolen: not sleep, but the choice to return from it. He took the boy's hand and closed his eyes. As Orlov drifted, he heard doors closing across the endless ward. The creature's voice faded into thunder. Beneath his hand, the boy's heartbeat became steady, warm, and human.",
+        "after": "The creature screamed with every voice it had borrowed. Orlov felt cold fingers searching through his memories, then loosening. He imagined snow falling over the hospital, covering the red glass, covering the locked door. \"Sleep,\" he told the boy. \"I will remember for both of us.\" Above, alarms died. Snow pressed against windows. Inside the chamber, the red glass became a mirror, reflecting only an empty bed and a small sleeping boy."
+      },
+      {
+        "id": "xix",
+        "title": "Morning Snow",
+        "image": "/media/stories/story-5/page-10.webp",
+        "audio": "/media/stories/story-5/page-19.mp3",
+        "body": "At sunrise, rescuers found the hospital empty. The chamber door stood open, its walls clean. Orlov slept beside a brass key. No records named him. Outside, fresh, silent snow covered every footprint except one small trail leading into the dark forest.",
+        "after": "The trail ended at the forest's edge. There, someone had written in snow: \"Thank you for letting us sleep.\" Beneath the words, a second message appeared as wind lifted the powder: \"We will be awake when you dream.\" Then the forest laughed."
+      },
+      {
+        "id": "xx",
+        "title": "Do Not Close Your Eyes",
+        "audio": "/media/stories/story-5/page-20.mp3",
+        "body": "Years later, a student found Orlov's unpublished tapes in a forgotten archive. The final recording contained twelve minutes of breathing, followed by a child asking whether the listener was tired. Most people stopped the tape there. Those who continued heard their own name whispered from the next room, even when they lived alone. The tape caught a door opening somewhere in the archive. The student heard bare feet approach, stop beside his desk, and wait without breathing beside him in the darkness.",
+        "after": "The last words on the tape were almost too quiet to hear: \"This experiment is over. You may sleep now.\" Then a second voice replied, very close to the microphone: \"No. It has only moved.\" If you hear knocking tonight, do not answer it while dreaming. The student tried to leave, but archive door would not open. From the darkness beside him, a child whispered, \"You played it all the way through.\""
+      }
+    ]
+  },
+  {
+    "id": "story6",
+    "category": "Love & Adventure",
+    "genre": [
+      "Romance",
+      "Biographical",
+      "Adventure"
+    ],
+    "language": "English",
+    "tags": [
+      "Love Story",
+      "India",
+      "Sweden",
+      "Bicycle Journey",
+      "Drama"
+    ],
+    "featured": true,
+    "title": "The Road That Led to You",
+    "thumbnail": "/media/stories/story-6/thumbnail.webp",
+    "ambient": "/media/stories/story-6/ambient.mp3",
+    "author": "Open Stories",
+    "authorBio": "A dramatic biographical retelling inspired by the documented love story of P.K. Mahanandia and Charlotte.",
+    "publishedDate": "August 2026",
+    "readingTime": "18 min read",
+    "listeningTime": "27 min listen",
+    "description": "A street artist in India answers separation with an extraordinary bicycle journey toward the woman he loves in Sweden.",
+    "endNote": "The bicycle was only metal and wheels. The promise was what carried him home.",
+    "authorNote": "This is a dramatized retelling inspired by the real love story of P.K. Mahanandia and Charlotte.",
+    "pages": [
+      {
+        "id": "i",
+        "title": "A Face in Delhi",
+        "image": "/media/stories/story-6/page-1.webp",
+        "audio": "/media/stories/story-6/page-1.mp3",
+        "body": "Delhi roared around P.K.'s easel: horns, dust, vendors, feet. Then Charlotte stopped before his sketches. Her blue eyes searched the paper, then met his. \"Can you draw me?\" she asked. P.K. lifted his pencil, suddenly terrified of making one wrong line.",
+        "after": "The first portrait failed. So did the second. Charlotte returned, smiling at his frustration. On the third day, P.K. understood why his hand shook. He feared drawing her face. He was afraid that, once she left, he would never see it again."
+      },
+      {
+        "id": "ii",
+        "title": "Three Portraits",
+        "audio": "/media/stories/story-6/page-2.mp3",
+        "body": "For three afternoons, Charlotte sat beneath a Delhi sky while P.K. drew. He noticed small things first: the way she tucked hair behind one ear, the patience in her silence, the way she watched strangers without looking away. Each portrait grew closer to her face, yet none felt complete. P.K. began saving detail because he feared memory would be crueler than distance. When she smiled, he forgot his prepared questions. When she looked away, he wondered whether the city had gone dim.",
+        "after": "Between pencil strokes, they began to speak. She told him about Sweden, snow, music, and a forest her family loved. He told her about Odisha, his village, and the years he had spent making faces appear from blank paper. By the third evening, goodbye felt impossibly heavy. Neither called it love. Still, both walked home slowly, carrying a name that had begun to feel like a future. Neither dared say it aloud."
+      },
+      {
+        "id": "iii",
+        "title": "The Old Prediction",
+        "image": "/media/stories/story-6/page-2.webp",
+        "audio": "/media/stories/story-6/page-3.mp3",
+        "body": "As a child, P.K. heard an astrologer predict a distant wife: musical, born under Taurus, connected to a forest. He had laughed for years. Now Charlotte stood beside him, Swedish, musical, a Taurus, with a family forest waiting across the world.",
+        "after": "P.K. told her the prediction with seriousness. Charlotte listened, smiling as traffic passed them. \"And what does it mean?\" she asked. He looked at her portrait, then answered, \"It means I spent my whole life walking toward this moment without knowing it.\""
+      },
+      {
+        "id": "iv",
+        "title": "The Village Road",
+        "audio": "/media/stories/story-6/page-4.mp3",
+        "body": "Charlotte did not laugh when P.K. invited her to Odisha. She boarded the train with him, watched cities loosen into fields, and held his hand whenever doubt crossed his face. At his village, his family waited in the doorway, unsure what to say to the woman who had crossed so far. P.K. watched Charlotte learn the path to the well, bird names, and his mother's jokes. Each gesture made their future feel less impossible and more like home to everyone around them.",
+        "after": "Charlotte bowed to his mother. P.K.'s mother touched her cheek, then began to cry. The house filled with food, awkward translation, and music. In January 1976, they married in India. For a few bright weeks, every road behind them felt like it had been worth traveling. P.K. found Charlotte on the roof beneath a sky. She said, \"I am afraid to leave this.\" He answered, \"Then leave knowing you are loved here.\""
+      },
+      {
+        "id": "v",
+        "title": "The Leaving",
+        "image": "/media/stories/story-6/page-3.webp",
+        "audio": "/media/stories/story-6/page-5.mp3",
+        "body": "Charlotte had studies waiting in Sweden. P.K. knew her departure date, yet each morning behaved as if love could make calendars lie. At the airport, neither spoke until final call. He held her suitcase, then her hands, then nothing at all.",
+        "after": "\"Write to me,\" Charlotte whispered. P.K. promised. She walked toward the gate, turned, and disappeared. The airport remained loud, but P.K. heard only the silence she left inside him. It was the first distance he had ever measured with his heart."
+      },
+      {
+        "id": "vi",
+        "title": "Letters Across Winter",
+        "audio": "/media/stories/story-6/page-6.mp3",
+        "body": "P.K. waited through a week, then a month, then another. Charlotte's letters arrived slowly, carrying news of snow, lectures, and the small ache of missing him. He read each one until the folded paper softened at the edges. At night, he placed them beside his pillow and tried to imagine her sleeping beneath another sky. One afternoon, neighbor found him staring at the sky. \"You cannot ride to Sweden,\" she said. P.K. answered, \"Then I will ride until the road becomes possible.\"",
+        "after": "He wrote back about monsoon rain, portraits, and every street corner that reminded him of her. Sometimes he wrote nothing but her name across a page. Waiting became a room without windows. One evening, P.K. understood that if he remained inside it, he would lose her before distance ever could. He unfolded letters on the floor and traced the distance with his finger. Somewhere north, Charlotte was waiting through the same hours."
+      },
+      {
+        "id": "vii",
+        "title": "A Bicycle Promise",
+        "image": "/media/stories/story-6/page-4.webp",
+        "audio": "/media/stories/story-6/page-7.mp3",
+        "body": "P.K. had no money for flight. He sold what he could, counted note twice, and bought a secondhand bicycle. Its frame was scratched, its seat worn thin. Still, when he gripped the handlebars, he felt something greater than hope: a direction.",
+        "after": "On January 22, 1977, he packed a sleeping bag, paint supplies, letters, and nothing else. His family stood beside the road. P.K. looked toward west. \"I am going to Charlotte,\" he said. Then he began pedaling before fear asked him to stay."
+      },
+      {
+        "id": "viii",
+        "title": "The First Long Road",
+        "audio": "/media/stories/story-6/page-8.mp3",
+        "body": "The first days felt almost foolish. Delhi fell behind him, then familiar roads, then the last places where anyone knew his name. Heat gathered beneath his shirt. Trucks passed him with laughter and dust. When money thinned, P.K. opened his sketchbook. A portrait could become dinner, shelter, or a stranger's kindness. A farmer traded fruit for P.K.'s portrait. A driver lifted his bicycle into a cab during rain. Each kindness felt like Charlotte had reached across the map and pushed him forward.",
+        "after": "At night, he leaned the bicycle against trees and studied Charlotte's letters by lantern light. Her handwriting made Sweden feel less like a dream. \"Keep going,\" she had written. He pressed the paper to his chest. The road was enormous, but her words were somehow larger. Rain erased the road ahead. P.K. stopped beneath bridge and wept. Then he imagined Charlotte reading his letter, and he rose before the storm finished speaking."
+      },
+      {
+        "id": "ix",
+        "title": "A Sky Without Borders",
+        "image": "/media/stories/story-6/page-5.webp",
+        "audio": "/media/stories/story-6/page-9.mp3",
+        "body": "Beyond India, landscapes changed beyond P.K.'s naming. New languages, mountains, unfamiliar prayers. One cold night, he slept beside his bicycle under a sky crowded with stars. The road offered no promise, only darkness stretching westward toward a woman waiting beyond it.",
+        "after": "He took Charlotte's letter, creased from rereading. \"I believe in you,\" she had written. P.K. looked at the wheels beside him. \"Then believe a little longer,\" he whispered. In the distance, a truck's headlights appeared like two small answers in the night."
+      },
+      {
+        "id": "x",
+        "title": "The Question of Enough",
+        "audio": "/media/stories/story-6/page-10.mp3",
+        "body": "Days became countries. Pakistan became Afghanistan; Afghanistan became Iran; Iran became Turkey. P.K. learned the sound of hunger, the sting of wind, and the loneliness that arrives after a border closes behind you. Some mornings, his legs hurt before he climbed onto the bicycle. Some mornings, he could not remember why he had started. In a room P.K. spread his letters around the wheel. He read them until Charlotte's voice filled silence. By morning, the question changed from why to how far.",
+        "after": "Then he would picture Charlotte opening a letter from him. He imagined her fingers on the paper, her face changing as she read. That image was enough to make him stand. Love did not remove the pain. It simply gave the pain somewhere to go. He whispered, \"Charlotte, if you are waiting, give me a reason to continue.\" Silence gave none. Dawn reached his window, and he understood he was the answer."
+      },
+      {
+        "id": "xi",
+        "title": "The Stranger's Table",
+        "image": "/media/stories/story-6/page-6.webp",
+        "audio": "/media/stories/story-6/page-11.mp3",
+        "body": "In a mountain town, P.K. drew a man's portrait outside a tea stall. The man studied it, then invited him home. His family gave P.K. bread, soup, and a bed. They shared no common language, yet grief and gratitude needed none.",
+        "after": "Before dawn, the man placed coins beside P.K.'s bicycle. P.K. refused. The man closed his hand around P.K.'s and pointed west. \"Go,\" he said in the word P.K. understood. P.K. cried after he left, because kindness can break open a tired heart."
+      },
+      {
+        "id": "xii",
+        "title": "Snow in His Beard",
+        "audio": "/media/stories/story-6/page-12.mp3",
+        "body": "Europe arrived slowly, first in colder air, then in roads that seemed too clean to belong to the world he had crossed. P.K. had grown thinner. His hands were cracked around the handlebars, and snow gathered in his beard. Yet every white field made Sweden feel closer, not farther. A woman watched him read the letter and brought tea without speaking. P.K. thanked her, but couldn't stop trembling. He had reached the edge of Europe; now his heart had to catch up.",
+        "after": "At a post office, he found a letter from Charlotte. She had waited months for news and feared the silence meant disaster. P.K. read her words until tears blurred them. At the bottom she wrote, \"Come safely. I am still here.\" He left before the clerk saw him crying. Outside, P.K. sat beside his bicycle. Snow melted on its frame. He imagined Charlotte waiting at a window, listening for wheels far away."
+      },
+      {
+        "id": "xiii",
+        "title": "The Broken Chain",
+        "image": "/media/stories/story-6/page-7.webp",
+        "audio": "/media/stories/story-6/page-13.mp3",
+        "body": "Near the stretch, the bicycle chain snapped on a rain-dark road. P.K. stared until anger rose. After many borders, would metal decide the ending? He sat beside the bicycle, soaked and shaking, and for the first time considered turning back.",
+        "after": "A mechanic stopped van and knelt beside him. He repaired the chain without asking. P.K. offered a portrait instead. The mechanic smiled and said, \"Finish your journey. Some stories deserve their last page.\" P.K. rode away with rainwater shining on his face."
+      },
+      {
+        "id": "xiv",
+        "title": "The Last Kilometer",
+        "audio": "/media/stories/story-6/page-14.mp3",
+        "body": "Sweden was no longer a word on an envelope. It was a country beneath his wheels, quiet with snow and impossible light. Every kilometer made P.K. more afraid. The journey had protected him from one question: what if Charlotte had changed? What if she had waited, but no longer loved the man who arrived? He thought of his first portrait, Charlotte's smile, and the suitcase disappearing at airport. Those memories had hurt before. Now they pulled him through snow like a rope.",
+        "after": "He stopped outside her town and could not move. He had crossed continents, slept under foreign skies, and survived every doubt except this one. Then he remembered her handwriting: I am still here. P.K. placed both hands on the handlebars and rode toward whatever truth was waiting. A woman paused beside him. She asked if he was lost. P.K. smiled and said, \"No. I have never known where I need to go.\""
+      },
+      {
+        "id": "xv",
+        "title": "Charlotte Waiting",
+        "image": "/media/stories/story-6/page-8.webp",
+        "audio": "/media/stories/story-6/page-15.mp3",
+        "body": "Charlotte stood in the Swedish light, smaller than every distance P.K. had imagined and more real than dream. His bicycle stopped beside the road. For one breath, neither moved. Then she ran toward him, and years of waiting collapsed between them.",
+        "after": "P.K. dropped bicycle. Charlotte held his face, checking he was not another impossible letter. He tried speaking, but only her name came out. She laughed through tears. \"You came,\" she whispered. P.K. pressed his forehead to hers. \"I told you I would.\""
+      },
+      {
+        "id": "xvi",
+        "title": "No More Distance",
+        "audio": "/media/stories/story-6/page-16.mp3",
+        "body": "Inside Charlotte's home, warmth felt strange after the road. P.K. noticed ordinary miracles: a chair, a bowl of soup, her coat hanging near the door. He kept looking at her, frightened that closing his eyes might return him to another country. Charlotte reached across the table and held his hand until he could breathe normally. Charlotte showed him a room to rest, but P.K. kept touching the wall and curtains. He needed proof that Sweden was not another dream he would lose at sunrise.",
+        "after": "They spoke until dawn. P.K. told her about mountains, strangers, hunger, and nights beside the bicycle. Charlotte listened without interrupting. When he finished, she said, \"You did not cross the world to prove anything.\" He looked at her. \"No,\" he answered. \"I crossed it because you were here.\" Charlotte brought a blanket. \"Will you still be here when I wake?\" P.K. asked. She kissed his forehead. \"I am here now. Rest.\""
+      },
+      {
+        "id": "xvii",
+        "title": "A Life After Arrival",
+        "image": "/media/stories/story-6/page-9.webp",
+        "audio": "/media/stories/story-6/page-17.mp3",
+        "body": "Years softened the adventure, never making it small. P.K. and Charlotte built family in Sweden. There were mornings, arguments, laughter, and seasons returning. The bicycle rested in quiet places, while the promise it carried became part of their everyday life.",
+        "after": "People asked how P.K. survived the journey. He rarely spoke about courage. He spoke about the day Charlotte left, and the silence afterward. \"Everything after that,\" he said, \"was simply the road home.\" Charlotte would squeeze his hand whenever he said it."
+      },
+      {
+        "id": "xviii",
+        "title": "What Love Costs",
+        "audio": "/media/stories/story-6/page-18.mp3",
+        "body": "People called P.K.'s ride romantic, heroic, impossible. He understood why. From the outside, thousands of kilometers looked like madness. But he remembered the details no story could hold: the sore knees, the wet blanket, the fear of opening a letter, the shame of needing help from strangers. Love had not made him fearless. He remembered bread from a mother, a driver's lift, and a mechanic repairing his chain. None asked for his story. They saw a traveler and made his burden lighter.",
+        "after": "It had made fear worth carrying. Every person who offered food, shelter, directions, or a warm room had carried part of him forward. P.K. never forgot that. A promise can begin in one heart, but sometimes the whole world helps it reach its destination. Charlotte said P.K. brought the road home. He answered that the road brought people. Without them, love might have been brave, but it would never have arrived there."
+      },
+      {
+        "id": "xix",
+        "title": "More Than a Bicycle",
+        "image": "/media/stories/story-6/page-10.webp",
+        "audio": "/media/stories/story-6/page-19.mp3",
+        "body": "One winter evening, P.K. found the bicycle beneath its cover. Its paint faded; its frame marked by roads no map could hold. Charlotte stood beside him by doorway. He touched handlebars, remembering who he was when he rode away.",
+        "after": "\"Was it difficult?\" Charlotte asked. P.K. smiled. \"Every day.\" She leaned against him. \"Again?\" He looked at the bicycle, then at her. \"For you,\" he said, \"I would begin before the first wheel ever turned.\" Outside, snow fell softly over the road."
+      },
+      {
+        "id": "xx",
+        "title": "The Road Home",
+        "audio": "/media/stories/story-6/page-20.mp3",
+        "body": "The story traveled farther than P.K.'s bicycle ever could. People heard it and wondered how love could carry someone across so much land. But P.K. knew the answer was smaller than a map. He had loved someone who was far away. He had looked at the distance. Then he had refused to call it the end. He remembered Charlotte asking for a portrait, and how that question opened roads. The world held distance, but devotion had turned a faraway place into direction.",
+        "after": "A bicycle is only metal, wheels, and a road beneath it. But a promise can make ordinary things sacred. P.K. did not ride toward Sweden because the journey was possible. He rode because Charlotte was there. And every mile said the same quiet sentence: I will find my way to you. Years later, P.K. said the hardest part was never distance. It was watching Charlotte leave and discovering absence felt endless then."
+      }
+    ]
+  }
+]
