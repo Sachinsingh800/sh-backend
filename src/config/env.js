@@ -20,7 +20,6 @@ export const env = Object.freeze({
     .map((origin) => origin.trim())
     .filter(Boolean),
   adminApiKey: text("ADMIN_API_KEY"),
-  localMediaRoot: text("LOCAL_MEDIA_ROOT", "../assets"),
   imagekitUrlEndpoint: text(
     "IMAGEKIT_URL_ENDPOINT",
     "https://ik.imagekit.io/vydsyx8gx",

@@ -2,16 +2,11 @@ import cors from "cors";
 import express from "express";
 import helmet from "helmet";
 import morgan from "morgan";
-import path from "node:path";
-import { fileURLToPath } from "node:url";
 import { env } from "./config/env.js";
 import { getDatabase } from "./db/mongo.js";
 import { errorHandler, notFound } from "./middleware/errors.js";
 import { mediaRouter } from "./routes/media.routes.js";
 import { storyRouter } from "./routes/story.routes.js";
-
-const backendRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const localMediaRoot = path.resolve(backendRoot, env.localMediaRoot);
 
 export function createApp() {
   const app = express();
@@ -35,7 +30,6 @@ export function createApp() {
   );
   app.use(express.json({ limit: "2mb" }));
   app.use(morgan(env.nodeEnv === "production" ? "combined" : "dev"));
-  app.use("/media", express.static(localMediaRoot, { maxAge: "7d", immutable: false }));
 
   app.get("/api/health", async (req, res) => {
     await getDatabase().command({ ping: 1 });

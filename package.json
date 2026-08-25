@@ -8,10 +8,7 @@
   "scripts": {
     "dev": "node --watch src/server.js",
     "start": "node src/server.js",
-    "check": "node --check src/server.js && node --check src/app.js && node --check scripts/migrate-frontend.js && node --check scripts/seed.js && node --check scripts/upload-media.js",
-    "migrate:frontend": "node scripts/migrate-frontend.js",
-    "seed": "node scripts/seed.js",
-    "media:upload": "node scripts/upload-media.js"
+    "check": "node --check src/server.js && node --check src/app.js && node --check src/routes/story.routes.js && node --check src/routes/media.routes.js"
   },
   "engines": {
     "node": ">=20.19.0"
@@ -25,8 +22,5 @@
     "mongodb": "^6.19.0",
     "morgan": "^1.10.1",
     "multer": "^2.0.2"
-  },
-  "devDependencies": {
-    "typescript": "^5.9.2"
   }
 }
