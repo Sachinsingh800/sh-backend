@@ -26,6 +26,9 @@ export const env = Object.freeze({
   ),
   imagekitPublicKey: text("IMAGEKIT_PUBLIC_KEY"),
   imagekitPrivateKey: text("IMAGEKIT_PRIVATE_KEY"),
+  firebaseProjectId: text("FIREBASE_PROJECT_ID", "story-hub-b414e"),
+  firebaseClientEmail: text("FIREBASE_CLIENT_EMAIL"),
+  firebasePrivateKey: text("FIREBASE_PRIVATE_KEY").replace(/\\n/g, "\n"),
 });
 
 export function assertServerEnv() {

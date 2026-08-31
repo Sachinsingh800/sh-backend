@@ -7,5 +7,9 @@ export function errorHandler(error, req, res, next) {
   const status = Number.isInteger(error.status) ? error.status : 500;
   const message = status >= 500 ? "Internal server error." : error.message;
   if (status >= 500) console.error(error);
-  res.status(status).json({ error: message });
+  const payload = { error: message };
+  if (status < 500 && typeof error.code === "string") {
+    payload.code = error.code;
+  }
+  res.status(status).json(payload);
 }

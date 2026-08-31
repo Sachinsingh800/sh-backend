@@ -10,7 +10,11 @@ and ambient-audio file. The backend does not serve media from local disk.
 2. Add the MongoDB Atlas connection string to `MONGODB_URI`.
 3. Add a long random `ADMIN_API_KEY`.
 4. Add the ImageKit public and private keys from the ImageKit dashboard.
-5. Install and start the API:
+5. Set `FIREBASE_PROJECT_ID=story-hub-b414e`. Firebase service-account fields
+   are optional for ID-token verification; if you add them, configure both
+   `FIREBASE_CLIENT_EMAIL` and `FIREBASE_PRIVATE_KEY` together and keep them
+   only in environment variables.
+6. Install and start the API:
 
    ```powershell
    npm install
@@ -34,6 +38,16 @@ Invoke-RestMethod http://localhost:4000/api/stories
 - `DELETE /api/stories/:id` (requires `x-admin-key`)
 - `POST /api/media/upload` (multipart `file`, requires `x-admin-key`)
 - `GET /api/media/imagekit-auth` (requires `x-admin-key`)
+- `GET /api/community/stories/:storyId`
+- `POST /api/community/summaries`
+- `PUT /api/community/stories/:storyId/me` (requires a Firebase bearer token)
+- `DELETE /api/community/stories/:storyId/me/comment` (requires a Firebase bearer token)
+
+Ratings and comments are stored in MongoDB's `reviews` collection. The server
+verifies the Firebase ID token, derives the reader identity from that token, and
+enforces one review per story and Firebase user. A `PUT` accepts a `rating` from
+1 through 5 and an optional `comment` of at most 500 characters. Deleting a
+comment preserves the reader's star rating.
 
 New media is uploaded directly to ImageKit through `POST /api/media/upload`.
 Story filters are available with `search`, `featured`, `category`, `genre`, and

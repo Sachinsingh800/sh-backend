@@ -5,6 +5,7 @@ import morgan from "morgan";
 import { env } from "./config/env.js";
 import { getDatabase } from "./db/mongo.js";
 import { errorHandler, notFound } from "./middleware/errors.js";
+import { communityRouter } from "./routes/community.routes.js";
 import { mediaRouter } from "./routes/media.routes.js";
 import { storyRouter } from "./routes/story.routes.js";
 
@@ -35,6 +36,7 @@ export function createApp() {
     await getDatabase().command({ ping: 1 });
     res.json({ status: "ok", database: "connected", timestamp: new Date().toISOString() });
   });
+  app.use("/api/community", communityRouter);
   app.use("/api/stories", storyRouter);
   app.use("/api/media", mediaRouter);
   app.use(notFound);

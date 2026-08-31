@@ -28,6 +28,7 @@ export async function connectDatabase() {
 
 async function ensureIndexes(db) {
   const stories = db.collection("stories");
+  const reviews = db.collection("reviews");
   const indexes = await stories.indexes().catch(() => []);
   const legacySearchIndex = indexes.find(
     (index) => index.name === "title_text_author_text_tags_text_genre_text",
@@ -48,6 +49,14 @@ async function ensureIndexes(db) {
     ),
     stories.createIndex({ featured: 1, publishedAt: -1 }),
     stories.createIndex({ category: 1, language: 1 }),
+    reviews.createIndex(
+      { storyId: 1, uid: 1 },
+      { unique: true, name: "one_review_per_reader" },
+    ),
+    reviews.createIndex(
+      { storyId: 1, updatedAt: -1 },
+      { name: "story_reviews_recent" },
+    ),
   ]);
 }
 
